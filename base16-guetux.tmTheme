@@ -507,6 +507,51 @@
 				<string>#a3685a</string>
 			</dict>
 		</dict>
+
+ 		<dict>
+			<key>name</key>
+			<string>Tag name</string>
+			<key>scope</key>
+			<string>meta.tag entity, entity.name.tag, meta.tag, declaration.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7587a6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag start/end</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag, punctuation.definition.tag.begin, punctuation.definition.tag.end</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7587a6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Attributes name</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cda869</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atrributes seperator</string>
+			<key>scope</key>
+			<string>punctuation.separator.key-value,  meta.tag.any, meta.tag.block.any, meta.tag.structure.any, meta.tag.inline.any</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cda869</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>9a64e05b-b64e-4634-9fd1-9d05f2ac148e</string>
