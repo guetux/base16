@@ -121,7 +121,7 @@
 			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
-			<string>entity.name.function, meta.function-call, meta.require</string>
+			<string>entity.name.function, meta.require</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
