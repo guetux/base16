@@ -97,24 +97,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Keywords</string>
+			<key>scope</key>
+			<string>keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#b294bb</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Operators</string>
 			<key>scope</key>
 			<string>keyword.operator</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f8f8f2</string>
+				<string>#ac4142</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keywords</string>
+			<string>Assignment</string>
 			<key>scope</key>
-			<string>keyword, keyword.control</string>
+			<string>keyword.operator.assignment</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b294bb</string>
+				<string>#f8f8f2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -125,7 +136,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cc6666</string>
+				<string>#81A2BE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -136,7 +147,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#81a2be</string>
+				<string>#81A2BE</string>
 			</dict>
 		</dict>
 		<dict>
